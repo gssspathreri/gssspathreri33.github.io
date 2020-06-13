@@ -442,10 +442,10 @@
         <marquee behavior="scroll" direction="up" scrollamount="4" >
         <table border="1" bgcolor="red" >
         	<tr>
-        <td style= "color: white" "object-fit: cover"><img src="images/nitin.jpg" height="100%" width="100%">Nitin 10th
+        <td style= "color: white" "object-fit: cover"><img src="images/nitin.jpg" height="100%" width="100%">Nitin X-90%
 		</td>
 
-		<td style= "color: white" "object-fit: cover"><img src="images/harsh.jpg" height="100%" width="100%">Harsh 7th
+		<td style= "color: white" "object-fit: cover"><img src="images/harsh.jpg" height="100%" width="100%">Harsh X-90% 
 		</td>
 
         	</tr>
